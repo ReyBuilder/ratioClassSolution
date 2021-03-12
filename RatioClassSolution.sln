@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RatioClassSolution", "RatioClassSolution.vcxproj", "{148AFA73-59E4-405F-8533-858DFC29ADBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{148AFA73-59E4-405F-8533-858DFC29ADBD}.Debug|x64.ActiveCfg = Debug|x64
+		{148AFA73-59E4-405F-8533-858DFC29ADBD}.Debug|x64.Build.0 = Debug|x64
+		{148AFA73-59E4-405F-8533-858DFC29ADBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{148AFA73-59E4-405F-8533-858DFC29ADBD}.Debug|x86.Build.0 = Debug|Win32
+		{148AFA73-59E4-405F-8533-858DFC29ADBD}.Release|x64.ActiveCfg = Release|x64
+		{148AFA73-59E4-405F-8533-858DFC29ADBD}.Release|x64.Build.0 = Release|x64
+		{148AFA73-59E4-405F-8533-858DFC29ADBD}.Release|x86.ActiveCfg = Release|Win32
+		{148AFA73-59E4-405F-8533-858DFC29ADBD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E33FAA87-DE58-4F38-8EE3-A9BCD6A24C8D}
+	EndGlobalSection
+EndGlobal
